@@ -15,34 +15,14 @@
             margin: 0;
         }
 
-        .container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            max-width: 930px;
-            width: 100%;
-            padding: 20px;
-        }
-
-        .phone-image {
-            flex: 1;
-            display: flex;
-            justify-content: center;
-        }
-
-        .phone-image img {
-            width: 80%;
-        }
-
         .login-form {
-            flex: 1;
-            max-width: 350px;
             background-color: #fff;
-            padding: 20px;
+            padding: 40px;
             border: 1px solid #dbdbdb;
             border-radius: 8px;
             text-align: center;
-            opacity: 1; /* Asegurando que sea visible de inmediato */
+            max-width: 400px;
+            width: 100%;
         }
 
         .login-form h1 {
@@ -84,19 +64,19 @@
             text-decoration: none;
         }
 
-        .login-form .separator {
+        .separator {
             display: flex;
             align-items: center;
             margin: 15px 0;
         }
 
-        .login-form .separator div {
+        .separator div {
             flex-grow: 1;
             height: 1px;
             background-color: #dbdbdb;
         }
 
-        .login-form .separator p {
+        .separator p {
             margin: 0 15px;
             color: #8e8e8e;
             font-weight: bold;
@@ -113,40 +93,31 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <!-- Imagen del teléfono -->
-        <div class="phone-image">
-            <img src="https://i.imgur.com/z1JYf2e.png" alt="Imagen de la aplicación en un teléfono">
+    <div class="login-form">
+        <h1>Instagram</h1>
+        <form>
+            <input type="text" placeholder="Teléfono, usuario o correo electrónico" required>
+            <input type="password" placeholder="Contraseña" required>
+            <button type="submit">Iniciar sesión</button>
+        </form>
+
+        <div class="separator">
+            <div></div>
+            <p>O</p>
+            <div></div>
         </div>
 
-        <!-- Formulario de inicio de sesión -->
-        <div class="login-form">
-            <h1>Instagram</h1>
-            <form>
-                <input type="text" placeholder="Teléfono, usuario o correo electrónico" required>
-                <input type="password" placeholder="Contraseña" required>
-                <button type="submit">Iniciar sesión</button>
-            </form>
+        <button style="background-color: transparent; color: #385185; border: none; font-weight: bold;">
+            Iniciar sesión con Facebook
+        </button>
 
-            <div class="separator">
-                <div></div>
-                <p>O</p>
-                <div></div>
-            </div>
+        <p><a href="#">¿Olvidaste tu contraseña?</a></p>
+        <p>¿No tienes una cuenta? <a href="#">Regístrate</a></p>
 
-            <button style="background-color: transparent; color: #385185; border: none; font-weight: bold;">
-                Iniciar sesión con Facebook
-            </button>
-
-            <p><a href="#">¿Olvidaste tu contraseña?</a></p>
-
-            <p>¿No tienes una cuenta? <a href="#">Regístrate</a></p>
-
-            <div class="app-download">
-                <p>Consigue la aplicación.</p>
-                <img src="https://i.imgur.com/2gYhQf5.png" alt="Descargar desde App Store">
-                <img src="https://i.imgur.com/j7UFvYb.png" alt="Descargar desde Google Play">
-            </div>
+        <div class="app-download">
+            <p>Consigue la aplicación.</p>
+            <img src="https://i.imgur.com/2gYhQf5.png" alt="Descargar desde App Store">
+            <img src="https://i.imgur.com/j7UFvYb.png" alt="Descargar desde Google Play">
         </div>
     </div>
 </body>
