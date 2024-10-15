@@ -1,0 +1,63 @@
+*****************
+nov 21 17:11 wiki-josegabe
+Protocolo Punto a Punto
+
+*****************
+nov 21 17:17 wiki-oscarholo
+https://en.wikipedia.org/wiki/Control-flow_graph
+control de flujo
+
+*****************
+nov 21 17:23 wiki-luisvava
+https://en.wikipedia.org/wiki/Delta_modulation
+
+*****************
+nov 21 17:24 wiki-manuelposa
+Ingles - Bandwidth (signal processing)
+https://en.wikipedia.org/wiki/Bandwidth_(signal_processing)
+Español - Ancho de banda
+https://es.wikipedia.org/wiki/Ancho_de_banda
+
+*****************
+nov 21 17:29 wiki-anabrpe
+https://en.wikipedia.org/wiki/Protocol_data_unit
+
+*****************
+nov 21 17:31 wiki-mariomual
+Traducción de Packet Switching(conmutación de paquetas) de manera más elaborada en la página de wikipedia de Trama de Red (https://es.wikipedia.org/wiki/Trama_de_red)(https://en.wikipedia.org/wiki/Frame_(networking))
+
+*****************
+nov 21 18:49 wiki-enriquefrul
+https://en.wikipedia.org/wiki/Twisted_pair
+
+*****************
+nov 22 20:23 wiki-sergiomase
+Expansión del articulo sobre el par trenzado
+https://es.wikipedia.org/wiki/Cable_de_par_trenzado
+https://en.wikipedia.org/wiki/Twisted_pair
+
+*****************
+nov 22 20:24 wiki-sergiomase-1
+Expansión del articulo sobre el par trenzado
+https://es.wikipedia.org/wiki/Cable_de_par_trenzado
+https://en.wikipedia.org/wiki/Twisted_pair
+
+*****************
+nov 22 20:33 wiki-antoniomova[ARQ]
+
+*****************
+nov 22 20:33 wiki-sergiomase-2
+Expansión del articulo sobre la topologia de red
+https://es.wikipedia.org/wiki/Topolog%C3%ADa_de_red
+https://en.wikipedia.org/wiki/Network_topology
+
+*****************
+nov 22 20:46 wiki-pabloasmo
+ARQ
+Artículo en inglés: https://en.wikipedia.org/wiki/Automatic_repeat_request
+Artículo traducido: https://es.wikipedia.org/wiki/Automatic_Repeat_Request
+
+*****************
+nov 24 18:28 wiki-joselimo[1]
+https://en.wikipedia.org/wiki/Logical_link_control
+

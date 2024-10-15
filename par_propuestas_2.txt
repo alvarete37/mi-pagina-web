@@ -1,0 +1,25 @@
+*****************
+feb 21 20:26 wiki-pabloasmo
+Traducción de artículo
+Original: https://en.wikipedia.org/wiki/Jumbo_frame
+Traducción: https://es.wikipedia.org/wiki/Jumbo_frame
+
+*****************
+feb 22 17:41 wiki-luisvava
+https://es.wikipedia.org/wiki/Unidad_m%C3%A1xima_de_transferencia
+
+*****************
+feb 22 17:46 wiki-manuelposa
+TRADUCCION
+ENLACE: https://en.wikipedia.org/wiki/List_of_WLAN_channels#5.C2.A0GHz_.28802.11a.2Fh.2Fj.2Fn.29
+
+*****************
+feb 29 18:28 wiki-joselimo(wifi6)
+wifi6   ampliación de contenido
+
+https://es.wikipedia.org/wiki/IEEE_802.11ax
+
+*****************
+mar  5 20:27 wiki-antoniomova
+Proxy-Caché
+

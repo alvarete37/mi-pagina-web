@@ -1,0 +1,25 @@
+*****************
+abr 25 19:26 wiki-luisvava
+https://en.wikipedia.org/wiki/Spanning_Tree_Protocol#Multiple_Spanning_Tree_Protocol_.28MSTP.29
+
+*****************
+abr 25 19:34 wiki-pabloasmo
+https://es.wikipedia.org/wiki/Tama%C3%B1o_M%C3%A1ximo_de_Segmento
+
+*****************
+abr 26 17:28 wiki-antoniomova[NATP-PAT]
+NATP/PAT
+
+*****************
+may 16 19:00 wiki-franciscomola
+{CGNAT}
+https://es.wikipedia.org/wiki/Carrier_Grade_NAT
+
+*****************
+may 16 19:12 wiki-joselimo
+banderas tcp(SYN, ACK, FIN,RST, PSH,URG)
+
+*****************
+may 27 20:36 wiki-manuelposa
+https://en.wikipedia.org/wiki/Link_aggregation
+
